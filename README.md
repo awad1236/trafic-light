@@ -1,4 +1,5 @@
 # trafic-light
+<p></p>
 <h2>what is this project</h2>
 <p>This project is a traffic light with sensors to open the crowded road.</p>
 <h2>componants</h2>
